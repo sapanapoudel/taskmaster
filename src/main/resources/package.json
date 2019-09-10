@@ -1,0 +1,25 @@
+{
+  "name": "taskmaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapanapoudel/taskmaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapanapoudel/taskmaster/issues"
+  },
+  "homepage": "https://github.com/sapanapoudel/taskmaster#readme",
+  "dependencies": {
+    "aws-sdk": "^2.526.0",
+    "dotenv": "^8.1.0",
+    "faker": "^4.1.0",
+    "uuid": "^3.3.3"
+  }
+}
